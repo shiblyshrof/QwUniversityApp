@@ -1,0 +1,9 @@
+c:\users\shibly\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\bin\Debug\StudentApp1.exe.config
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.csprojResolveAssemblyReference.cache
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.StudentUI.resources
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.Properties.Resources.resources
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.csproj.GenerateResource.Cache
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\bin\Debug\StudentApp1.exe
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\bin\Debug\StudentApp1.pdb
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.exe
+C:\Users\SHIBLY\documents\visual studio 2013\Projects\StudentApp1\StudentApp1\obj\Debug\StudentApp1.pdb
